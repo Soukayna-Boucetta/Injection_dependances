@@ -7,7 +7,7 @@ et l'injection des dependance avec le framwork spring qui utilise des annotation
 et il permet à l'utilisation de ce concentrer sur le code métier avec l'utilisation de mevn.Spring 
 ce coeur de côté  technique comme la sécurité la gestion des données
 c'est à dire pas de mélange entre l' aspect technique et l'aspect metier.
-Avec les mêmes exemples de la première partie.
+Avec les mêmes exemples de la première partie de projet injection des dependance sans spring.
 
 Alors nous avons testé aussi les commandes principales de mvn qui sont utilisées dans la gestion des projet distribué.
 
